@@ -12,5 +12,6 @@ Date (MM-DD-YYYY)| Presentation | Presenter | Presentation_link
 25-04-2022 | *Internship journey presentation* | Audrey Oronda | [presentation link](https://docs.google.com/presentation/d/1opv3kD1E6DrXa1sWeKkYCS-Xa1_-sH5Fl8d9QdUBW5o/edit?usp=sharing)
 04-05-2022 | *Internship Journey Presentation* | Maxwell Booker | [presentation link](https://docs.google.com/presentation/d/1dbOfuaPk24kbdbrfGkn8L7_XsoeNWl5nwwBs3QtFmi4/edit?usp=sharing)
 09-05-2022 | *Internship journey presentation* | Sharon Watiri | [presentation link](https://docs.google.com/presentation/d/1xC4I5-j6w-Wk3UnugCo_5opTWFvq22t8vt8s7kXKNj0/edit#slide=id.g127153a6d23_0_383)
+16-05-2022 | *Internship journey presentation* | Rodney Omukuti | [presentation link](https://docs.google.com/presentation/d/1Ln6LQ8VVtLH7-u5CXdlCriqq9BdE__GJ/edit?usp=sharing&ouid=102786403682468986387&rtpof=true&sd=true)
 
 ---
